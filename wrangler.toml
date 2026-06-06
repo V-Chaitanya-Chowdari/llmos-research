@@ -1,0 +1,8 @@
+# wrangler.toml - Cloudflare Pages project configuration
+#:schema node_modules/wrangler/config-schema.json
+name = "llmos-research"
+pages_build_output_dir = "dist"
+
+[vars]
+NODE_VERSION = "20.10.0"
+VITE_APP_ENV = "production"

@@ -1,0 +1,6 @@
+{
+  "name": "LLMOS Paradigm: The Future of AI Operating Systems",
+  "description": "Moving beyond physical resource management into a Cognitive User Interface (CUI). An architectural study of embedding LLM + GNN reasoning kernels into modern operating frameworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
